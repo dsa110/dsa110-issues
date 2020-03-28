@@ -6,6 +6,8 @@ For guidance on writing github issues, check out [the best practices](https://me
 
 # Test status
 
+Testing integrated with [Travis-CI](https://travis-ci.com/github/dsa110).
+
 ## dsa110-T2
 [![Build Status](https://travis-ci.com/dsa110/dsa110-T2.svg?branch=master)](https://travis-ci.com/dsa110/dsa110-T2)
 [![codecov](https://codecov.io/gh/dsa110/dsa110-T2/branch/master/graph/badge.svg)](https://codecov.io/gh/dsa110/dsa110-T2)
